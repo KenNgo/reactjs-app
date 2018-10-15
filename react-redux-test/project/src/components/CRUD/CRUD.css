@@ -1,0 +1,38 @@
+h2 {
+	text-align: center;
+}
+.showGrid {
+	margin: 10px 0;
+	text-align: left;
+}
+.showGrid input {
+	width: 300px;
+	display: inline-block;
+	padding: 10px;
+}
+.showGrid textarea {
+	width: 300px;
+	height: 100px;
+}
+
+h3 {
+	text-align: left;
+	box-sizing: border-box;
+	padding-left: 20px;
+}
+
+table {
+	width: 100%;
+}
+
+table th {
+	text-align: center;
+}
+
+table td {
+	text-align: left;
+}
+
+.form input, .form textarea {
+	width: 40% !important;
+}

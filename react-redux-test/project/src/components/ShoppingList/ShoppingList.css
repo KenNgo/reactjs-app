@@ -1,0 +1,64 @@
+.row {
+	margin: 0;
+}
+.container {
+	width: 100%;
+	display: inline-block;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+.show-grid label, .show-grid input, .show-grid textarea, .show-grid button {
+	margin-left: 20px;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+}
+
+.show-grid input, .show-grid textarea {
+	width: 300px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.show-grid textarea {
+	height: 100px;
+}
+
+.item-wrapper {
+	margin-left: 20px;
+	width: 60%;
+	border: solid 1px #2892D7;
+}
+
+.item-wrapper .heading, .item-wrapper .footer {
+	background: #2892D7;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	color: #fff;
+}
+
+.item-wrapper .footer {
+	background: #ededed;
+}
+
+.item-wrapper .body {
+	background: #fff;
+	color: #000;
+	box-sizing: border-box;
+	min-height: 50px;
+	padding: 10px;
+}
+
+.footer button {
+	color: #777;
+}
+
+div, button, input, textarea {
+	border-radius: 3px;
+}
+
+button, input, textarea {
+	border: solid 1px #999;
+}
