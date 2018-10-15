@@ -1,0 +1,29 @@
+.header-image {
+  width: 100%;
+  margin-top: -2em;
+  margin-bottom: 2em;
+}
+
+.about-profile-pic {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+ul {
+	list-style: none;
+	display: block;
+	margin: 10px auto;
+	text-align: center;
+}
+
+ul li {
+	float: left;
+}
+
+ul li .container {
+	width: 100px;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 10px 20px;
+	margin: 0 20px;
+}
